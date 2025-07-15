@@ -1,3 +1,4 @@
 # CodeAlpha_Carprice_intern
-Sales Forecasting with Python  
-This involves anticipating future sales by analyzing key factors such as advertising budgets, target audiences, and marketing channels. The dataset undergoes comprehensive cleaning, transformation, and feature selection to ensure high-quality input for the predictive model. Utilizing regression and time series techniques, the model predicts sales trends and evaluates the impact of advertising strategies on sales performance. The insights obtained aim to help companies optimize their marketing investments and improve sales outcomes through data-informed decisions.
+Machine Learning-Based Auto Price Prediction
+
+ The goal of this research is to apply machine learning techniques to anticipate automotive prices.  A regression model is trained to predict the market worth of cars by gathering important variables including engine size, horsepower, mileage, fuel type, and brand reputation.  Data preprocessing, feature engineering, and model performance assessment using metrics like MAE and R2 are all part of the procedure.  Python libraries for data cleaning, model building, and result visualization include Pandas, Scikit-learn, and Matplotlib.  This research shows how machine learning may be used practically in the automotive sector to assist dealers, buyers, and sellers in setting fair prices.
